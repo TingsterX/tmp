@@ -4,7 +4,7 @@
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
-    "baseUrlTemplate": "https://github.com/TingsterX/tmp/blob/master/{0}.png",
+    "baseUrlTemplate": "https://github.com/TingsterX/tmp/raw/master/{0}.png",
     "delimiter": "__",
     "leftSwipeLabel": "Fail",
     "rightSwipeLabel": "Pass",
@@ -88,7 +88,7 @@
   },
   "home": {
     "title": "test",
-    "tagline": "qc",
+    "tagline": "PRIME-QC",
     "backgroundUrl": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/SwipesForScience.svg?sanitize=true"
   },
   "play": {
