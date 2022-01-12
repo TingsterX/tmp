@@ -4,10 +4,13 @@
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
-    "baseUrlTemplate": "https://github.com/TingsterX/tmp/blob/master/{0}.jpg",
+    "baseUrlTemplate": "https://github.com/TingsterX/tmp/blob/master/{0}.png",
     "delimiter": "__",
     "leftSwipeLabel": "Fail",
-    "rightSwipeLabel": "Pass"
+    "rightSwipeLabel": "Pass",
+    "soundUrlTemplate": null,
+    "maskUrlTemplate": null,
+    "template": null
   },
   "iconAttribute": {
     "name": "openmoji",
