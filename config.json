@@ -6,8 +6,8 @@
   "widgetProperties": {
     "baseUrlTemplate": "https://github.com/TingsterX/tmp/raw/master/{0}.png",
     "delimiter": "__",
-    "leftSwipeLabel": "Fail",
-    "rightSwipeLabel": "Pass",
+    "leftSwipeLabel": "Bad",
+    "rightSwipeLabel": "Good",
     "soundUrlTemplate": null,
     "maskUrlTemplate": null,
     "template": null
